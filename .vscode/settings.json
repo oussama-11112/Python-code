@@ -1,0 +1,5 @@
+{
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.confirmOnKill": "never",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
